@@ -1,2 +1,2 @@
 # test
-联系git
+练习git
